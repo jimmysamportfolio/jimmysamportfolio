@@ -27,11 +27,11 @@ Pandas, Numpy, Supabase, Flask, Next.js, React, Swing, JUnit, Tailwind.
 
 ### Hackathons:
 
-**HelloHacks 2024:** Won the education stream, and placed 3rd overall (out of 15 teams) in my first hackathon by building Daygree, a degree planning app using Java to build our backend.
+**HelloHacks 2024:** Won the education stream, and placed 3rd overall (out of 15 teams) in my first hackathon by building Daygree, a degree planning app. Used Java to build our backend.
 
 **Product Sprint 2025:** Placed 1st overall (out of 20 teams) by designing a PRD AI assistant that helps PMs align on best practices using a database of PRDs.
 
-**RTC Ally Global Hackathon 2025:** Won an honourable mention for the best use of an innovative new technology in a 4 hour hackathon by building an AI voice agent that syncs with the Ally Global system to help remote stakeholders communicate effectively and easily in their native languages.
+**RTC Ally Global Hackathon 2025:** Won an honourable mention for the best use of an innovative new technology in a 4 hour hackathon by building an AI voice agent with Gemini that syncs with the Ally Global system to help remote stakeholders communicate effectively and easily in their native languages.
 
 **Contact me:**
 jimmygsam@gmail.com
