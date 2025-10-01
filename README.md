@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 I'm a second-year student at UBC, studying **Business and Computer Science (BUCS)**. I finished up a summer as a technical operations specialist at Pit Stop Portables, where I optimized our technical operations using new technologies. I'm interested in product management, AI, startups and embedded systems.
 
-I hope to eventually build my own tech startup that is accepted by YC. 
+I hope to eventually build my own tech startup that is accepted by YC. I am currently a partnerships director with UBC BizTech, the largest tech club at UBC. I am working on a startup-focused event called KickStart, where our goal is to bring together the most ambitious minds in Vancouver and force them to launch their startup ideas. 
 
 ---
 ### Tech Stack:
