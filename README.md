@@ -1,6 +1,6 @@
-## Hi, I'm Simon👋
+## Hi, I'm Jimmy👋
 <!--
-**SimonKurono/SimonKurono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jimmysamportfolio/jimmysamportfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a second-year student at UBC, studying **Business and Computer Science (BUCS)** with a minor in **Mathematics**. I am currently working as a data delivery engineer at Turing, where I curate and manage the delivery of training datasets for Google DeepMind. I'm interested in the intersection of finance and computer science, particularly in HFT (low-latency systems), algorithmic trading, and building predictive machine learning models to assess risk, volatility, and returns of securities. 
+I'm a second-year student at UBC, studying **Business and Computer Science (BUCS)**. I finished up a summer as a technical operations specialist at Pit Stop Portables, where I optimized our technical operations using new technologies. I'm interested in product management, AI, startups and embedded systems.
 
-Eventually, I hope to build a scalable AI education platform for high school and university students by creating simulated real-world experiences for hands-on learning. 
+I hope to eventually build my own tech startup that is accepted by YC. 
 
 ---
 ### Tech Stack:
 
-**Languages:** Java, Python, C++, JavaScript, PostgreSQL, HTML/CSS
+**Languages:** Java, Python, JavaScript, HTML/CSS, Node.js, PostgresSQL
 
 **Frameworks and libraries:**
-Scikit-learn, Pandas, Numpy, Matplotlib, Django, Streamlit, React, Swing, JUnit. 
+Scikit-learn, Pandas, Numpy, Supabase, Flask, Next.js, React, Swing, JUnit. 
 
 **Contact me:**
-simonkurono@gmail.com
+jimmygsam@gmail.com
