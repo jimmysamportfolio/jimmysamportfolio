@@ -23,7 +23,7 @@ I am currently a partnerships director with UBC BizTech, the largest tech club a
 **Languages:** Java, Python, JavaScript, HTML/CSS, Node.js, PostgresSQL
 
 **Frameworks and libraries:**
-Scikit-learn, Pandas, Numpy, Supabase, Flask, Next.js, React, Swing, JUnit. 
+Pandas, Numpy, Supabase, Flask, Next.js, React, Swing, JUnit, Tailwind. 
 
 ### Hackathons:
 
