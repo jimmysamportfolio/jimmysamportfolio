@@ -30,7 +30,7 @@ I am currently a partnerships director with UBC BizTech, where I was the primary
 
 **Product Sprint 2025:** Placed 1st overall (out of 20 teams) by designing a PRD AI assistant that helps PMs align on best practices using a database of PRDs.
 
-**ProductX 2025** Built a BigWay Hotpot Waitlist predictor. It predicts wait times and sends you a notification when it thinks you should join the waitlist from your desired dining time.
+**ProductX 2025:** Built a BigWay Hotpot Waitlist predictor. It predicts wait times and sends you a notification when it thinks you should join the waitlist from your desired dining time.
 
 **RTC Ally Global Hackathon 2025:** Won an honourable mention for the best use of an innovative new technology in a 4 hour hackathon by building an AI voice agent with Gemini that syncs with the Ally Global system to help remote stakeholders communicate effectively and easily in their native languages.
 
