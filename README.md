@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a student at UBC, studying **Business and Computer Science (BUCS)**. I finished up a summer internship as a technical operations specialist at Pit Stop Portables, where I optimized our technical operations by creating some custom scripts & leveraging tools like n8n to automate highly manual processes. I'm heavily interested in product management, AI & startups. I hope to build a YC startup in the neat future. 
+I'm a student at UBC, studying **Business and Computer Science (BUCS)**. I'm currently an AI Solutions Engineer at Advizr, where I build AI Solutions and consult customers on how to most efficiently improve their business' processes. I'm heavily interested in product management, AI, SWE & startups. 
 
-I am currently a partnerships director with UBC BizTech, where I was the primary POC for a startup event called KickStart. The event featured a partner from a16z, multiple YC founders as judges, and many more successful founders in the industry. 
+I am also currently a partnerships director with UBC BizTech, where I was the primary POC for a startup event called KickStart. The event featured a partner from a16z, multiple YC founders as judges, and many more successful founders in the industry. 
 
 ---
 ### Tech Stack:
