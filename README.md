@@ -1,4 +1,4 @@
-## Hi, I'm Jimmy👋
+## Hey, I'm Jimmy!
 <!--
 **jimmysamportfolio/jimmysamportfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,26 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a student at UBC, studying **Business and Computer Science (BUCS)**. I'm currently an AI Solutions Engineer at Advizr, where I build AI Solutions and consult customers on how to most efficiently improve their business' processes. I'm heavily interested in product management, AI, SWE & startups. 
+Currently a SWE at Advizr, where I build products for businesses, end-end.
 
-I am also currently a partnerships director with UBC BizTech, where I was the primary POC for a startup event called KickStart. The event featured a partner from a16z, multiple YC founders as judges, and many more successful founders in the industry. 
+A few things I have done at my job:
+- Fully shipped a production-grade RAG pipeline for a real-estate company with evals, documentation, and logging on a local VM. 
+- Fully shipped and deployed a web scraper that scrapes Jane App booking urls to prepare 10000+ clinic datasets for a clinic booking service 
 
----
-### Tech Stack:
-
-**Languages:** JavaScript, HTML/CSS, Node.js, PostgresSQL, Java, Python, 
-
-**Frameworks and libraries:** Supabase, Flask, Next.js, React, Swing, JUnit, Tailwind, Node.js, Docker, Express.js, Next.js
-
-### Hackathons:
-
-**HelloHacks 2024:** Won the education stream, and placed 3rd overall (out of 15 teams) in my first hackathon by building Daygree, a degree planning app. Used Java to build our backend.
-
-**Product Sprint 2025:** Placed 1st overall (out of 20 teams) by designing a PRD AI assistant that helps PMs align on best practices using a database of PRDs.
-
-**ProductX 2025:** Built a BigWay Hotpot Waitlist predictor. It predicts wait times and sends you a notification when it thinks you should join the waitlist from your desired dining time.
-
-**RTC Ally Global Hackathon 2025:** Won an honourable mention for the best use of an innovative new technology in a 4 hour hackathon by building an AI voice agent with Gemini that syncs with the Ally Global system to help remote stakeholders communicate effectively and easily in their native languages.
-
-**Contact me:**
-jimmygsam@gmail.com
+Interested? Here's more about me.
