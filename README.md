@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a SWE at Advizr, where I build products for businesses, end-end.
+I'm a SWE at Advizr, where I own and build (primarily AI) products for businesses, end-end.
 
 ### A few things I have done at my job:
 - Fully shipped a production-grade RAG pipeline for a real-estate company with evals, documentation, and logging on a local VM. 
