@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 I'm a SWE at Advizr, where I own and build (primarily AI) products for businesses, end-end.
 
-### A few things I have done at my job:
-- Fully shipped a production-grade RAG pipeline for a real-estate company with evals, documentation, and logging on a local VM. 
-- Fully shipped and deployed a web scraper that scrapes Jane App booking urls to prepare 10000+ clinic datasets for a clinic booking service.
+### A few things I have shipped:
+- Production-grade RAG pipeline for a real-estate company with evals, documentation, and logging on a local VM. 
+- Web scraper for Jane App booking urls to prepare a 10000+ clinic dataset for a clinic booking service.
 
 When I'm not coding, you can catch me playing volleyball, table tennis, or pumping iron at the gym :)   
 - Goal -> Bench 225lbs (current 170lbs - up 50 lbs from September 2025)
