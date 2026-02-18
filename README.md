@@ -13,13 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a SWE at Advizr, where I own and build (primarily AI) products for businesses, end-end.
+Currently a SWE @ Advizr, where I ship agentic AI and RAG products to small businesses.
 
-### A few things I have shipped:
-- Production-grade RAG pipeline for a real-estate company with evals, documentation, and logging on a local VM. 
-- Web scraper for Jane App booking urls to prepare a 10000+ clinic dataset for a clinic booking service.
+A few things I have built:
+👾 custom RAG pipeline, comparison tool and document generator for a real estate company
+📊 automated parallel data scraper and normalizer for 10,000+ clinics across Canada
 
-When I'm not coding, you can catch me playing volleyball, table tennis, or pumping iron at the gym :)   
-- Goal -> Bench 225lbs (current 170lbs - up 50 lbs from September 2025)
+Also a Partnerships Director @ UBC BizTech (800+ members).
 
-Interested? Here's more about me.
+ A few things I am proud of:
+📽️ got us a live interview on Global News 
+💰 secured over $10k in sponsorships/grants 
+🫡 led our partnerships team for Kickstart, a startup event with 40+ partners (including an a16z partner & some YC founders)
+
+Interested in startups, agentic AI, and sports (volleyball, table tennis and soccer are my main three). Always down for a cheeky game.
