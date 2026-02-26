@@ -19,4 +19,5 @@ Currently a SWE @ Advizr, where I ship agentic AI and RAG products to small busi
 - 👾 custom RAG pipeline, comparison tool and document generator for a real estate company
 - 📊 automated parallel data scraper and normalizer for 10,000+ clinics across Canada
 
-Interested in startups, agentic AI, and sports (volleyball, table tennis and soccer are my main three). Always down for a cheeky game.
+Interested? Check out my [personal website!](https://jimmysam.ca)
+
