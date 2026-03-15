@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Currently a SWE @ Advizr, where I ship agentic AI and RAG products to small businesses.
+Currently a SWE @ Advizr, where I ship agentic AI products to small businesses.
 
 Interested? Check out my [personal website!](https://jimmysam.ca)
 
