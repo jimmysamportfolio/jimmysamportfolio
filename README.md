@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Founding Engineer at Cedar, building an agentic superconnector working with the best talent leaders in the world. Backed by a16z speedrun. 
+Founding Engineer at Cedar, working with the best talent leaders in the world. Backed by a16z speedrun. 
 
 Interested? Check out my [personal website!](https://jimmysam.ca)
 
