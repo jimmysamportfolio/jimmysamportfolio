@@ -7,4 +7,4 @@ currently:
 formerly:
  - software engineer @ Advizr
  - partnerships director @ UBC BizTech
- - academic weapon (GPA: 4.33/4.33 - ranked 4/794 in class) 
+ - academic weapon @ UBC (GPA: 4.33/4.33 - ranked 4/794 in class) 
