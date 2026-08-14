@@ -1,7 +1,7 @@
 currently: 
  - founding software engineer @ Cedar AI Agents (a16z SR06) 
  - reading about RLVR, diffusion LLMS, graph RAG, recursion, memory, DSL Agents
- - optimizing my team's AI coding pipeline (routines, code review, sandboxes)
+ - optimizing my team's AI coding pipeline (routines, review, sandboxes)
  - partnerships co-lead @ UBC BizTech
 
 formerly:
