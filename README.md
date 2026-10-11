@@ -1,7 +1,6 @@
 currently: 
  - founding software engineer @ Cedar AI Agents (a16z SR backed) 
- - tinkering with robots
- - optimizing my team's AI coding pipeline (routines, review, sandboxes, integration tests)
+ - tinkering with robots, AI/ML & data pipelines 
  - partnerships co-lead @ UBC BizTech
 
 formerly:
