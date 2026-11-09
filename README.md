@@ -1,6 +1,6 @@
 currently: 
  - founding software engineer @ Cedar AI Agents (a16z SR backed) 
- - tinkering with robots, AI/ML & data pipelines 
+ - currently reading about RLHF
  - partnerships co-lead @ UBC BizTech
 
 formerly:
